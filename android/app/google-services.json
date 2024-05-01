@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "295919767300",
+    "project_id": "ois-movies",
+    "storage_bucket": "ois-movies.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295919767300:android:138c45d0315d8a3bd24a51",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4CcSFyPSci-H3dT0ewguYXUU-W-L0Tew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295919767300:android:10fb8f89d4d02de5d24a51",
+        "android_client_info": {
+          "package_name": "com.example.movies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4CcSFyPSci-H3dT0ewguYXUU-W-L0Tew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
